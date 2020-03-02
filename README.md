@@ -3,7 +3,7 @@ Windows Batch script to test how long the battery lasts on a laptop.
 
 
 Contents:
-<code><br>
+<br>
 @echo off<br>
 mkdir %TEMP%\batteryTest\<br>
 echo Made directory batteryTest at %TEMP%\batteryTest\<br>
@@ -20,4 +20,3 @@ echo >> %TEMP%\batteryTest\batteryTest.log<br>
 timeout /t 120 /nobreak<br>
 set /A Counter+=1<br>
 goto:output
-<code>
