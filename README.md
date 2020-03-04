@@ -3,9 +3,9 @@ Windows Batch script to test how long the battery lasts on a laptop. Python scri
 
 
 **Concept: **
-*Display text telling the user that the script is running. Similar to the green lighning bug in Unix.
-*Log (append) text with current time to a file in temporary or user-accessable folder for review later.
-*Wait 2 minutes
-*log to file again
-*repeat until computer dies from powerloss.
+<li>Display text telling the user that the script is running. Similar to the green lighning bug in Unix.
+<li>Log (append) text with current time to a file in temporary or user-accessable folder for review later.
+<li>Wait 2 minutes
+<li>log to file again
+<li>repeat until computer dies from powerloss.
 
