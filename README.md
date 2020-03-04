@@ -1,5 +1,5 @@
 # batteryTimer
-Windows Batch script to test how long the battery lasts on a laptop.
+Windows Batch script to test how long the battery lasts on a laptop. Python script does about the same thing.
 
 
 Contents:
