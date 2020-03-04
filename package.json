@@ -1,0 +1,35 @@
+{
+  "name": "Battery Tester",
+  "description": "Battery Tester scripted in Python 3",
+  "version": "1.0.4",
+  "keywords": [
+    "battery",
+    "battery test"
+  ],
+  "contributors": [
+    {
+      "name": "Lucas Burlingham",
+      "email": "lucas.burlingham@icloud.com",
+      "web": ""
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Lucas Burlingham",
+      "email": "lucas.burlingham@icloud.com",
+      "web": ""
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/lucasburlingham/batterytester.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "MIT License",
+      "url": "https://mit-license.org/"
+    }
+  ]
+}
